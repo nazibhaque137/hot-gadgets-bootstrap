@@ -1,0 +1,73 @@
+.half-width{
+    font-size: 15px;
+    font-weight: 700;
+     padding-top: 5%;
+     width: 50%;
+     float: left;
+}
+.car h1{
+    font-weight: 700;
+}
+.caro-button{
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+    width: 160px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.car-row{
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.first{
+    background-image: url("images/bg-2.png");
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+}
+.smartphone{
+    padding-top: 5%;
+}
+.smartphone img{
+    padding-left: 50px;
+    padding-right: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 80%;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+}
+.laptop{
+    padding-top: 5%;
+}
+.half-page{
+    padding-top: 5%;
+     width: 50%;
+     float: left;
+}
+.catagories{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-bottom: 2%;
+}
+.modified{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 15%;
+}
+.modified img{
+        width: 70%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+}
+.modified:hover {
+    transform: translateY(-10px);
+}
